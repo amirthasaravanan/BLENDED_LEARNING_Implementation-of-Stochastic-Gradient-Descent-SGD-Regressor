@@ -112,13 +112,6 @@ r2 = r2_score(y_test, y_pred)
 ```
 ```python
 # Print evaluation metrics
-print('Name: ')
-print('Reg. No: ')
-print("Mean Squared Error:", mse)
-print("R-squared Score:", r2)
-```
-```python
-# Print evaluation metrics
 print('Name: AMIRTHA VARSHINI M ')
 print('Reg. No: 212224230017 ')
 print("Mean Squared Error:", mse)
